@@ -1,0 +1,2 @@
+decision_id,audience_unit,recipient_count,channel,sent_at,delivery_status,receipt_evidence,confirmed_count,checked_at,owner,next_step,next_check_at
+[ID],[участник или проверяемая группа],[число адресатов],[основной и резервный канал],[дата время зона],unknown,[закрытая ссылка на свидетельство],[число подтвердивших],[дата время зона],[владелец],[действие для недоступных или неподтвердивших],[следующая проверка]

@@ -1,0 +1,12 @@
+node_modules/
+.next/
+next-env.d.ts
+*.tsbuildinfo
+backend/target/
+data/
+private/
+working/
+.env*
+!.env.example
+__pycache__/
+.DS_Store
